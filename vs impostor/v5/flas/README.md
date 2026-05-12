@@ -1,0 +1,2 @@
+# flas
+- [squidboy](https://twitter.com/SquidBoy84) made all of the new backgrounds and icons in paint.net, while green's fla is not public, [emi](https://twitter.com/superinky_)'s red sprite [is](https://github.com/inky03/fnf-stuff/blob/main/impostor%20(clowfoe)/fla/red/red%20alpha.fla)
